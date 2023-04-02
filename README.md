@@ -15,3 +15,6 @@ Installation instruction:
 5. Build the project: In IntelliJ IDEA, click the "Build" menu and select "Build Project". This will compile your code and create any necessary files.
 
 6. Run the project: Once the project is built, you can run it from IntelliJ IDEA by clicking the green "Run" button in the top toolbar or by using the shortcut Shift + F10. Alternatively, you can run it from the command line by navigating to the project directory and running the command java -jar [name of jar file].
+
+Contact:
+j.wojtowicz0105@gmail.com
